@@ -25,7 +25,7 @@ Python • Django • Django REST Framework • Celery
 
 ### Frontend Development
 
-React • JavaScript • HTML • CSS
+React • JavaScript • HTML • CSS - (Above beginner)
 
 ### Databases
 
