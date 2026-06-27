@@ -55,8 +55,6 @@ JWT Authentication • RBAC • CORS • CSRF • Secure Webhook Verification �
 ## 🌍 Connect With Me
 
 💼 LinkedIn:https://www.linkedin.com/in/godsway-adzido1/
-
-🐙 GitHub: https://github.com/GeeCodez
 ---
 
 ⭐ I enjoy building, learning, and sharing what I discover. Feel free to explore my repositories, follow my journey, or connect if you'd like to collaborate on software or AI-driven projects.
