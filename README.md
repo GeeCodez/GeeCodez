@@ -1,81 +1,64 @@
-# Hi, I'm Godsway 👋
+# AI-Assisted Software Engineer | Python • Django • AI Workflows • Secure Systems
 
-Backend Engineer | Python • Django • APIs • Scalable Systems
-
-I enjoy building reliable backend services, designing efficient databases, and developing scalable systems that power modern web applications.
+I enjoy building secure, production-ready software while leveraging AI to accelerate development, improve code quality, and rapidly transform ideas into working products. My interests span backend engineering, application security, cloud deployment, and modern AI-assisted development workflows.
 
 ---
 
 ## 🚀 About Me
 
-* 🔧 Backend developer focused on **Python and Django**
-* ⚙️ Experience building **API-driven backend systems**
-* 💳 Implemented **payment integrations and secure authentication flows**
-* 🐳 Experience with **Docker containerization**
-* 🔐 Interested in **backend security and system reliability**
-* 🌱 Continuously improving my knowledge in **testing, system design, and distributed systems**
+### Software Engineer | Backend • APIs • Secure Systems • Scalable Applications
 
----
+A software developer focused on building secure, reliable, and scalable applications. My core strength is secure backend development combined with experience in delivering complete end-to-end systems by connecting backend services to modern frontend interfaces using React, HTML, CSS, Javascript and modern web technologies.
+
+I place strong emphasis on system security, performance, and future maintainability, ensuring that applications are not only functional but also resilient against common vulnerabilities and design flaws.
 
 ## 🛠 Tech Stack
 
-### Backend Development
+### Languages
 
-Python • Django • Django REST Framework • Celery
+Python • Java (Basics) • JavaScript • C++ • SQL
 
-### Frontend Development
+### Backend
 
-React • JavaScript • HTML • CSS - (Above beginner)
+Django • Django REST Framework • Celery • REST APIs • Shell scripting
+
+### Frontend
+
+React • Tailwind CSS • HTML • CSS • JavaScript
 
 ### Databases
 
-PostgreSQL • SQLite
-Database design • Query optimization
+PostgreSQL • SQLite • Database Design • Query Optimization • SQL
 
-### DevOps & Infrastructure
+### AI Development
 
-Docker • Kubernetes (basic)
-GitHub Actions • CI/CD
-Linux • Shell scripting
+Google Stitch • ChatGPT • Gemini • Codex • Prompt Engineering • AI-assisted Development Workflows
+
+### Cloud & DevOps
+
+Docker • Git • GitHub • Linux • Render • Cloudinary • GitHub Actions
 
 ### Security
 
-API rate limiting
-IP tracking
-Secure authentication systems
-
-### Version Control
-
-Git • GitHub
-Gitflow workflow
-
-### Programming Languages
-
-Python • JavaScript • C++
-
-### Computer Science Foundations
-
-Networking basics
-Object-Oriented Programming
+JWT Authentication • RBAC • CORS • CSRF • Secure Webhook Verification • API Rate Limiting • OWASP Principles
 
 ---
 
 ## 📚 Currently Learning
 
-* Backend testing using **Pytest and mocking**
-* **System design for scalable backend systems**
-* **Backend performance optimization**
+* Google Cybersecurity Professional Certificate
+* AI Engineering & Prompt Engineering
+* Retrieval-Augmented Generation (RAG) Implementation
+* Distributed Systems & Scalable Architecture
+* Backend Security Performance Optimization
 
 ---
 
 ## 🌍 Connect With Me
 
-LinkedIn
-https://linkedin.com/in/godsway-adzido
+💼 LinkedIn:https://www.linkedin.com/in/godsway-adzido1/
 
-Twitter / X
-https://x.com/Adzido_Gee
-
+🐙 GitHub: https://github.com/GeeCodez
 ---
 
-⭐ Feel free to explore my repositories and backend projects.
+⭐ I enjoy building, learning, and sharing what I discover. Feel free to explore my repositories, follow my journey, or connect if you'd like to collaborate on software or AI-driven projects.
