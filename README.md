@@ -1,8 +1,6 @@
-# Software Developer | Python • Django • React • Tailwind • Javascript • AI Workflows • Secure Systems
-
-I enjoy building secure, production-ready software while leveraging AI to accelerate development, improve code quality, and rapidly transform ideas into working products. My interests span backend engineering, application security, cloud deployment, and modern AI-assisted development workflows.
-
----
+# Hello I'm Godsway
+Software Developer | Python • Django • React • Tailwind • Javascript • AI Workflows • Secure Systems 
+I enjoy building reliable backend services, designing efficient databases, and developing scalable systems that power modern web applications.
 
 ## 🚀 About Me
 
