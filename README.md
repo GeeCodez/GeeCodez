@@ -1,4 +1,4 @@
-# Hello I'm Godsway
+# Hello I'm Godsway 👋
 Software Developer | Python • Django • React • Tailwind • Javascript • AI Workflows • Secure Systems 
 I enjoy building reliable backend services, designing efficient databases, and developing scalable systems that power modern web applications.
 
