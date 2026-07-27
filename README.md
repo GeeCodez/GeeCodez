@@ -1,60 +1,99 @@
-# Hello I'm Godsway 👋
-Software Developer | Python • Django • React • Tailwind • Javascript • AI Workflows • Secure Systems 
-I enjoy building reliable backend services, designing efficient databases, and developing scalable systems that power modern web applications.
+# Hello, I'm Godsway 👋
 
-## 🚀 About Me
+## Software Engineer | Backend & Web Developer | Secure Systems Builder
 
-### Software Engineer | Backend • APIs • Secure Systems • Scalable Applications
+I build software that goes beyond functionality — software that solves real problems, protects users, and scales reliably.
 
-A software developer focused on building secure, reliable, and scalable applications. My core strength is secure backend development combined with experience in delivering complete end-to-end systems by connecting backend services to modern frontend interfaces using React, HTML, CSS, Javascript and modern web technologies.
+My focus is designing secure backend systems and modern web applications using Python, Django, React, and cloud technologies. I enjoy building products from idea to deployment while applying security-first engineering practices throughout the development lifecycle.
 
-I place strong emphasis on system security, performance, and future maintainability, ensuring that applications are not only functional but also resilient against common vulnerabilities and design flaws.
+---
 
-## 🛠 Tech Stack
+## 🧠 Engineering Philosophy
 
-### Languages
+I believe security should not be added after software is built. It should be considered from the first design decision, architecture choice, and line of code.
 
-Python • Java (Basics) • JavaScript • C++ • SQL
+I combine software engineering, cybersecurity principles, and AI-powered tools to build systems that are reliable, maintainable, and capable of solving real-world problems.
 
-### Backend
+---
 
-Django • Django REST Framework • Celery • REST APIs • Shell scripting
+## 🚀 Featured Projects
 
-### Frontend
+### Petroleum Logistics Tracking System
 
-React • Tailwind CSS • HTML • CSS • JavaScript
+A full-stack logistics platform for managing petroleum deliveries.
 
-### Databases
+**Built with:**
+Python • Django REST Framework • React • JWT Authentication
 
-PostgreSQL • SQLite • Database Design • Query Optimization • SQL
+Features:
+- Role-based access control
+- Driver location tracking
+- Secure API authentication
+- Delivery lifecycle management
 
-### AI Development
+---
 
-Google Stitch • ChatGPT • Gemini • Codex • Prompt Engineering • AI-assisted Development Workflows
+### GhISEP UENR Website
 
-### Cloud & DevOps
+Professional chapter website built to improve communication and showcase organizational activities.
 
-Docker • Git • GitHub • Linux • Render • Cloudinary • GitHub Actions
+**Built with:**
+Django • JavaScript • Cloudinary
 
-### Security
+Features:
+- Content management
+- Media handling
+- Secure deployment practices
 
-JWT Authentication • RBAC • CORS • CSRF • Secure Webhook Verification • API Rate Limiting • OWASP Principles
+---
+
+### Afrinex
+
+Business platform designed to showcase digital solutions for businesses and startups.
+
+**Built with:**
+Django • PostgreSQL • JavaScript
+
+---
+
+# 🛠 Technical Expertise
+
+**Languages:**  
+Python • JavaScript • SQL • Java  • C++ (Basics)
+
+**Backend Development:**  
+Django • Django REST Framework • REST API Design • Authentication & Authorization • JWT • RBAC • Celery • Redis
+
+**Frontend Development:**  
+React • JavaScript • HTML • CSS • Tailwind CSS
+
+**Databases:**  
+PostgreSQL • SQLite • SQL • Database Design • Query Optimization
+
+**Security & Secure Engineering:**  
+OWASP Top 10 • Secure Coding Practices • API Security • Security Headers • Request Logging • Rate Limiting • Secure Authentication
+
+**DevOps & Cloud:**  
+Linux • Docker • Git/GitHub • GitHub Actions • CI/CD • Render • Cloudinary • Vercel
+
+**AI Engineering:**  
+Prompt Engineering • AI-assisted Development Workflows • Foundation Models • RAG Concepts • AI Application Integration
 
 ---
 
 ## 📚 Currently Learning
 
-* Google Cybersecurity Professional Certificate
-* AI Engineering & Prompt Engineering
-* Retrieval-Augmented Generation (RAG) Implementation
-* Distributed Systems & Scalable Architecture
-* Backend Security Performance Optimization
+- Application Security
+- AI Engineering and AI-powered applications
+- Retrieval-Augmented Generation (RAG)
+- Distributed Systems
+- Scalable Backend Architecture
 
 ---
 
-## 🌍 Connect With Me
+## 🌍 Connect
 
-💼 LinkedIn:https://www.linkedin.com/in/godsway-adzido1/
----
+LinkedIn:
+https://www.linkedin.com/in/godsway-adzido1/
 
-⭐ I enjoy building, learning, and sharing what I discover. Feel free to explore my repositories, follow my journey, or connect if you'd like to collaborate on software or AI-driven projects.
+I enjoy building, learning, and sharing my engineering journey. Feel free to explore my repositories or connect if you are interested in software engineering, secure systems, or AI-powered applications.
