@@ -8,8 +8,6 @@ My focus is designing secure backend systems and modern web applications using P
 
 ---
 
-## 🧠 Engineering Philosophy
-
 I believe security should not be added after software is built. It should be considered from the first design decision, architecture choice, and line of code.
 
 I combine software engineering, cybersecurity principles, and AI-powered tools to build systems that are reliable, maintainable, and capable of solving real-world problems.
