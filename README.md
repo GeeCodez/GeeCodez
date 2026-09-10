@@ -1,6 +1,6 @@
 # Hello, I'm Godsway 👋
 
-## Secure Software Developer | Backend & Web Developer | Secure Systems Builder
+## Secure Software Developer | Backend, Web & Rest APIs |
 
 I build software that goes beyond functionality — software that solves real problems, protects users, and scales reliably.
 
