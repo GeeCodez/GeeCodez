@@ -1,10 +1,10 @@
 # Hello, I'm Godsway 👋
 
-## Software Engineer | Backend & Web Developer | Secure Systems Builder
+## Secure Software Developer | Backend & Web Developer | Secure Systems Builder
 
 I build software that goes beyond functionality — software that solves real problems, protects users, and scales reliably.
 
-My focus is designing secure backend systems and modern web applications using Python, Django, React, and cloud technologies. I enjoy building products from idea to deployment while applying security-first engineering practices throughout the development lifecycle.
+My focus is to build secure backend systems and modern web applications using Python, Django, React, and cloud technologies. I build products from idea to deployment while applying security-first engineering practices throughout the development lifecycle.
 
 ---
 
