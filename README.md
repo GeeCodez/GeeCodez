@@ -31,29 +31,6 @@ Features:
 
 ---
 
-### GhISEP UENR Website
-
-Professional chapter website built to improve communication and showcase organizational activities.
-
-**Built with:**
-Django • JavaScript • Cloudinary
-
-Features:
-- Content management
-- Media handling
-- Secure deployment practices
-
----
-
-### Afrinex
-
-Business platform designed to showcase digital solutions for businesses and startups.
-
-**Built with:**
-Django • PostgreSQL • JavaScript
-
----
-
 # 🛠 Technical Expertise
 
 **Languages:**  
@@ -72,10 +49,10 @@ PostgreSQL • SQLite • SQL • Database Design • Query Optimization
 OWASP Top 10 • Secure Coding Practices • API Security • Security Headers • Request Logging • Rate Limiting • Secure Authentication
 
 **DevOps & Cloud:**  
-Linux • Docker • Git/GitHub • GitHub Actions • CI/CD • Render • Cloudinary • Vercel
+Linux • Docker • Git/GitHub • GitHub Actions • CI/CD • Render • Cloudinary • Vercel • EC2 • ECS 
 
 **AI Engineering:**  
-Prompt Engineering • AI-assisted Development Workflows • Foundation Models • RAG Concepts • AI Application Integration
+Prompt Engineering • AI-assisted Development Workflows • Foundation Models •  AI Application Integration
 
 ---
 
